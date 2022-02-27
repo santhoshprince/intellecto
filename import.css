@@ -1,0 +1,30 @@
+.import{
+    background: url(".//img/intellecto/tasks/bg_gradient__figure-header.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+
+}
+.title-one{
+    padding-top: 50px !important;
+    font-size: 50px !important;
+    color: black !important;
+    font-weight: 700 !important;
+    line-height: 1.3 !important;
+}
+.para-s {
+    color: #1b2222 !important;
+}
+.import-tab li a{
+    padding: 0px 25px !important;
+    background: none !important;
+    border: 0 !important;
+
+    border-radius: 0 !important;
+    color: #777;
+    font-size: 15px !important;
+    font-weight: 600 !important;
+}
+/* .ccv{
+    background-image: url(".//img/intellecto/tasks/bg__beside-csv.svg");
+} */

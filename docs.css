@@ -1,0 +1,83 @@
+.four-imgs{
+background-image: url(".//img/intellecto/tasks/green-diamond.svg");
+background-position: left;
+background-size: contain;
+background-repeat: no-repeat;
+}
+.first-docs{
+        letter-spacing: unset !important;
+        padding: 0px !important;
+    
+}
+.yellow-four{
+    background-image: url(".//img/intellecto/tasks/yellow-diamond.svg");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: contain;
+
+}
+.caro-par h1{
+    font-size: 50px;
+    font-weight: 600;
+    padding-top: 10px;
+}
+.bg-tab-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+
+}
+#img-w{
+    width: 91%;
+}
+.common-p{
+    color: white;
+    font-size: 17px;
+    padding-bottom: 21px;
+}
+.bg-one-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+
+}
+.bg-two-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+ 
+}
+.bg-three-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+  
+}
+.bg-four-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+  
+}
+.bg-five-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+   
+}
+.bg-six-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+   
+}
+.bg-seven-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+  
+}
+.bg-eight-one{
+    background: url(".//img/intellecto/tasks/dots.svg");
+   
+}
+.bg-nine-one{
+    background: url(".//img/intellecto/tasks/dots.svg"); 
+  
+}
+.common-s{
+    color: #ababab;
+    font-size: 17px;
+    padding-bottom: 21px;
+}
+.head-tabs{
+    font-size: 59px;
+    padding: 21px 0px;
+    font-weight: 600;
+    line-height: 0.9;
+
+}

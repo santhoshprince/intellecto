@@ -1,0 +1,40 @@
+.apps{
+    background-image: url(".//img/intellecto/tasks/bg_gradient__download.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
+.all-moblie{
+    padding: 20px;
+    padding-bottom: 75px;
+    background: #f8f7fe;
+    border-radius: 25px;
+}
+.fa-mobile{
+    background: #7b68ee;
+    padding: 15px 16px;
+    font-size: 35px !important;
+    border-radius: 14px;
+    color: white;
+}
+.fa-desktop{
+    background: #ffc800;
+    padding: 15px 16px;
+    font-size: 35px !important;
+    border-radius: 14px;
+    color: white;
+}
+.mob{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+.all-mobs{
+    padding:20px;
+}
+.mobile-card{
+    background-color: #fffae6;
+    border-radius: 10px;
+
+}

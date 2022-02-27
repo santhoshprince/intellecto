@@ -1,0 +1,50 @@
+.onbording{
+    background-image: url(".//img/intellecto/tasks/bg_gradient__onboarding.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+ 
+}
+.bord-h1 h1{
+    font-size: 39px !important;
+    font-weight: 600 !important;
+    color: white !important;
+}
+.bord-h1 p{
+    
+    color: white !important;
+}
+.onboard-main{
+    padding: 60px 80px;
+    background-color:#f8f7fe;
+    border-radius: 50px;
+}
+.two-bord{
+    padding: 50px;
+}
+.webc{
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: #fd71af;
+    /* margin-right: 5px; */
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.web-k{
+    font-size: 42px;
+    line-height: 1.2;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.card-sim{
+    height: 320px !important;
+}
+.bg-bacs:hover{
+    background-color: #7b68ee;
+}
+.web-k:hover{
+    color: #f8f7fe;
+}
+.pa-hov:hover{
+    color: #f8f7fe;
+}

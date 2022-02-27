@@ -1,0 +1,45 @@
+.blog{
+    background: linear-gradient(#33977115, #2b3b27);
+
+}
+.title-blog{
+    font-size: 50px !important;
+    line-height: 1.3 !important;
+    font-weight: 700 !important;
+}
+.para-e{
+    color:#dee9e581;
+}
+.card-body{
+    padding: unset !important;
+}
+.blog-head{
+    line-height: 44px !important;
+    /* margin: 0 0 32px 0; */
+    padding: 2px 7px !important;
+    font-size: 32px !important;
+    margin: unset !important;
+
+}
+.blog-p{
+    padding: 2px 7px !important;
+}
+.blog-s{
+    padding: 10px 15px !important;
+}
+.card-title{
+    font-size: 29px;
+    padding: 5px 10px;
+    font-weight: unset !important;
+}
+.videos{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.fa-play{
+    padding: 10px 15px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: #7b68ee;
+    margin-right: 5px;
+}

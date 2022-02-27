@@ -1,0 +1,66 @@
+.university{
+    background-image: url(".//img/intellecto/tasks/cuu_v2.1bg_2x_min.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.card{
+    padding: 20px !important;
+    width: 400px !important;
+}
+.webz{
+    padding: 15px 15px  !important;
+    border-radius: 42px !important;
+    color: aliceblue !important;
+    background-color: #fd71af !important;
+    /* margin-right: 5px; */
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+}
+#on-new{
+    width: 100%;
+    background-color: #fd71af ;
+    color: white;
+    border: 0px;
+    font-size: 19px;
+}
+.webe{
+    padding: 15px 15px  !important;
+    border-radius: 42px !important;
+    color: aliceblue !important;
+    background-color: #7765e7!important;
+    /* margin-right: 5px; */
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+}
+#on-newe{
+    width: 100%;
+    background-color: #7765e7;
+    color: white;
+    border: 0px;
+    font-size: 19px;
+}
+.webf{
+    padding: 15px 15px  !important;
+    border-radius: 42px !important;
+    color: aliceblue !important;
+    background-color: #49CCF9 !important;
+    /* margin-right: 5px; */
+    margin-left: 10px !important;
+    margin-top: 10px !important;
+}
+#on-newf{
+    width: 100%;
+    background-color: #49CCF9;
+    color: white;
+    border: 0px;
+    font-size: 19px;
+}
+
+.car-fs{
+    border-radius: 20px !important;
+    width: unset !important;
+}
+.card-newtit{
+    padding-bottom: 50px !important;
+}

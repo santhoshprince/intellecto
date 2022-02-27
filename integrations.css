@@ -1,0 +1,59 @@
+.main{
+background: url(".//img/intellecto/tasks/integrations.png") center bottom/contain no-repeat,linear-gradient(to right,#8930fd,#49ccf9);
+    
+    
+}
+ .bg-colr a{
+    color: #000000 !important;
+} 
+.title-sub{
+    padding-top: 50px !important;
+    font-size: 50px !important;
+    color: #ffffff !important;
+    font-weight: 700 !important;
+}
+.para-p{
+    color: #ffffff !important;
+}
+.navi{
+    padding-top: 50px;
+    text-align: center;
+}
+.navi h1{
+    font-size: 46px;
+    font-weight: 600;
+}
+.navi p{
+    font-size: 20px;
+}
+.main-cad{
+    border: 2px solid red;
+    padding: 35px 12px;
+}
+.read{
+    display: none;
+}
+#cvb{
+    width: 15%;
+    padding-top: 15px;
+    /* padding-top: 15px; */
+    padding-bottom: 15px
+}
+
+.aas{
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.ziper{
+    padding: 33px 11px;
+}
+.zip-one{
+    border: 1px solid rgba(0, 0, 0, 0.06);
+}
+.one-cont{
+    align-items: center;
+}

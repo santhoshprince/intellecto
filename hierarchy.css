@@ -1,0 +1,14 @@
+.hierarchy{
+    background-image: url(".//img/intellecto/tasks/bg_gradient__features.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.ccv{
+   background-color:  #ffffff;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 1px 0px;
+}
+.bgs{
+    padding: 40px;
+}

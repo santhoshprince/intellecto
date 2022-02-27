@@ -1,0 +1,115 @@
+.webinars{
+    background-image: url(".//img/intellecto/tasks/bg_gradient__webinar.svg");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: contain;
+}
+.bg-bin{
+    background-image: url(".//img/intellecto/tasks/bg-main-webinar-header.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px;
+}
+.card-one{
+    padding: 25px;
+    margin-top: 10px;
+    box-shadow: 0 15px 45px 0px ;
+    border-radius: 10px;
+    border: 0px;
+}
+.live{
+    padding-top: 30px !important;
+    color: #fd71af;
+    
+}
+#help-more{
+    background-color: #fd71af;
+    border-radius: 10px;
+    color: white;
+    border: 0px;
+   width: 100%;
+    margin-top: 5px;
+}
+.web{
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: #fd71af;
+    margin-right: 5px;
+}
+.webina{
+    font-size: 38px;
+    font-weight: 600;
+}
+.but-binar {
+    padding-bottom: 10px;
+}
+.live-one{
+    padding-top: 30px !important;
+   color: #49ccf9;
+    
+}
+#help-mores{
+    background-color: #49ccf9;
+    border-radius: 10px;
+    color: white;
+    border: 0px;
+   width: 100%;
+    margin-top: 5px;
+}
+.webs{
+    padding: 15px 20px;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: #49ccf9;
+    margin-right: 5px;
+}
+.crd-img{
+    display: flex;
+    padding-bottom: 10px;
+}
+#simple{
+    width: 15%;
+    border-radius: 46px;
+    margin-left: 8px;
+}
+.use-p{
+    font-size: 12px;
+    /* padding-bottom: 0px; */
+    padding-top: 10px;
+    padding-left: 15px;
+}
+.duplic-card{
+    padding: 10px;
+}
+.web-h1{
+    font-size: 53px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    font-weight: 500;
+}
+.web-h{
+    font-size: 35px;
+    line-height: 1.5;
+    padding-bottom: 15px;
+}
+#on-round{
+    border-color: #e6e610 ;
+    color: #e6e610;
+}
+#on-round:hover{
+    background-color: unset !important;
+
+}
+.but-bin{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+#get-starts{
+    background-color: #7b68ee;
+    border-radius: 10px;
+    color: white;
+    border:0px;
+   
+    }

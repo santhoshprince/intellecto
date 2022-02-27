@@ -1,0 +1,17 @@
+.demand{
+    background-image: url(".//img/intellecto/tasks/bg_gradient__demo.svg");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.pr-tour{
+    background-image: url(".//img/intellecto/tasks/pr-tour.png");
+}
+.cover-head{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 500;
+}
+
+.min-heit{
+    min-height: 440px !important;
+}

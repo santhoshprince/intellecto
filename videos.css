@@ -1,0 +1,17 @@
+.videos{
+    background: url(".//img/intellecto/tasks/dots.svg"),linear-gradient(264.29deg,#49ccf9 0,#8930fd 101.2%);
+}
+.video-img{
+    width: 60%;
+}
+.recures li{
+
+    padding: unset !important;
+}
+.recures li a{
+
+  padding: 14px 28px !important;
+}
+.card-body{
+    min-height: 200px !important;
+}

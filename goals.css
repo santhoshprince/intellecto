@@ -1,0 +1,101 @@
+.custom-goals h1{
+    font-size: 62px;
+    line-height: 1;
+    font-weight: 600;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.new-goals{
+    padding-top: 100px ;
+  
+}
+.tick{
+    list-style: none;
+}
+.new-cont{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#bg-tic{
+    width: 5%;
+    background-color: #1175cbb3;
+    height: 5%;
+    padding: 6px 5px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+#one-tic{
+    width: 5%;
+    background-color: #131414b3;
+    height: 5%;
+    padding: 6px 5px;
+    border-radius: 6px;
+    margin-right: 10px;
+}
+.asd{
+    padding: 16px 16px;
+}
+.asd h5{
+    font-size: 15px;
+    font-weight: 600px;
+    color: #3a3939;
+}
+.one-img h4{
+    font-size: 41px;
+   padding: 26px 20px;
+    line-height: 1.1;
+}
+.seting h1{
+    font-size: 50px;
+    font-weight: 500;
+    padding-top: 10px;
+}
+
+.one-f{
+    background: #fff;
+    box-shadow: 0 15px 45px rgb(16 30 54 / 15%);
+  
+    padding: 45px 45px;
+    border-radius: 10px;
+}
+.one-img{
+    background-color: white;
+    padding: 6px 16px;
+    box-shadow: 0 15px 45px rgb(16 30 54 / 15%);
+    border-radius: 10px;
+}
+#alter{
+    width: 15%;
+    height: 15%;
+    border-radius: 25px;
+}
+.erica{
+    padding: 10px 9px;
+    font-weight: 700;
+    color: #303030;
+}
+.bg-back{
+    background: #fff;
+    box-shadow: 0 15px 45px rgb(16 30 54 / 15%);
+    border-radius: 4px;
+}
+.card-body h4{
+    font-size: 30px;
+    line-height: 1.4;
+    font-weight: 700;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.img-car{
+    display: flex;
+}
+.crd h1{
+    font-size: 49px;
+    font-weight: 600;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.cad-last{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

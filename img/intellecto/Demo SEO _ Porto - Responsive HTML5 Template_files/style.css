@@ -1,0 +1,115 @@
+.nav-prime li a{
+margin: 1px 19px 0px !important;
+}
+.button-sucesss{
+    margin: 8px;
+text-transform: capitalize !important;
+    background: #7b68ee !important;
+    color: white !important;
+    border-radius: 10px !important;
+    border: 0px !important;
+
+}
+.button-one{
+text-transform: capitalize !important;
+  background-color: white !important;
+  color: #c0539e !important;
+    border-radius: 10px !important;
+    border: 0px !important; 
+}
+.button-sucesss:hover{
+    background: antiquewhite !important;
+}
+.button-one:hover{
+    background: #7b68ee !important;
+    color: white !important;
+}
+.title-sub{
+    font-size: 50px;
+    font-weight: 600;
+    line-height: 1.25;
+}
+.para-p{
+    font: 400 14px/29px Axiforma,Arial,serif;
+    color: #292d34;
+    margin-top: 5px !important;
+
+}
+.head-input{
+    outline: 0;
+    font: 400 14px/16px Axiforma,Arial,serif;
+    color: #292d34 !important;
+    max-height: 56px;
+    padding: 21px !important;
+    border-radius: 9px !important;
+    width: 360px !important;
+    border: 1px solid rgba(185,190,199,.6) !important;
+    box-shadow: 0 19px 25px rgb(10 10 51 / 4%);
+    transition: .2s !important;
+}
+#get-start{
+background-color: #7b68ee;
+border-radius: 10px;
+color: white;
+border:0px;
+box-shadow: 0 10px 25px rgb(123 104 238 / 50%) !important;
+
+}
+.content-grid .content-grid-item:before {
+    border-left: unset!important;
+}
+.pro-tasks li a{
+    font-size: 14px !important;
+    padding: 15px 0px !important;
+    margin-right: 50px !important;
+    border-bottom-color:  transparent!important;
+    color: #292d34;
+}
+.pro-tasks li a.nav-link.active{
+    border-bottom-color: #fd71af !important;
+}
+.tab-head h2{
+    margin-bottom: 30px;
+    font-size: 60px;
+    line-height: 1.1;
+    color: #333;
+font-weight: 600 ;
+}
+.tab-p{
+font-size: 14px;
+color: #292d34;
+}
+.one{
+    padding-left: 10px;
+    color: #292d34;
+}
+.two{
+    border-left: 1px solid black;
+    padding-left: 10px;
+    color: #292d34;
+}
+.three{
+    border-left:1px solid black;
+    padding-left: 10px;
+    color: #292d34;
+}
+
+.four{
+    border-left:1px solid black;
+    padding-left: 10px;
+    color: #292d34;
+}#get-started{
+    background-color:#fd71af;
+    border-radius: 6px;
+    color: white;
+    border:0px;
+}
+.total{
+    background-color:  #fff8fb;
+    padding: 60px 80px;
+    border-radius: 50px;
+}
+.chat-pro{
+    padding: 0px 60px;
+    padding-bottom: 50px;
+}

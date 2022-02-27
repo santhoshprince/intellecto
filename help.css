@@ -1,0 +1,89 @@
+.help{
+    background-image: url(".//img/intellecto/tasks/help-header-bg.svg");
+   
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
+.addres{
+    border: 2px solid rgb(157 156 156);
+    
+}
+.address-one{
+    
+    padding: 45px 20px;
+}
+.addres{
+    background: #7b68ee;
+    border-radius: 3px;
+    
+}
+.icon-thre{
+    display: flex;
+    justify-content: space-evenly;
+ 
+}
+
+.there{
+    background: linear-gradient(to right,#7b68ee 0,#5b43ea 100%);
+    background: linear-gradient(to right,#7b68ee 0,#5b43ea 100%);
+    /* border-top-left-radius: 15px; */
+    color: transparent;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.second-bg{
+    background-color: rgb(255 255 255);
+    border: 2px solid rgb(157 156 156);
+    padding-bottom: 30px;
+    border-radius: 5px;
+}
+.hi{
+    font-size: 26px;
+    color: white;
+    text-transform: lowercase;
+}
+.fa-book-open{
+    color:#7b68ee;
+}
+#help{
+    font-size: 49px !important;
+    font-weight: 500 !important;
+    line-height: 1.3 !important;
+    color: aliceblue;
+}
+.para-d{
+    color: aliceblue;
+}
+.img-icn{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.demo{
+    padding-left: 10px;
+    text-transform: initial;
+    font-size: 21px;
+
+}
+.cont-dup{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+#get-started{
+    background-color: #7b68ee;
+    border-radius: 10px;
+    color: white;
+    border: 0px;
+   
+    margin-top: 5px;
+}
+.connect-one{
+    box-shadow: 0 0 50px rgb(161 121 205 / 15%);
+    padding: 25px 25px;
+}
+.quest h1{
+    text-align: center;
+    font-size: 37px;
+    font-weight: 600;
+}
